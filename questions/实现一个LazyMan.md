@@ -15,7 +15,6 @@
   比如：
     对于异步请求ajaxN，其中N代表请求的执行时间，如ajax1代表请求1秒后返回。实现一个串行请求队列serial函数，接收包含异步请求的数组，按顺序依次执行。
  -->
-
 ### 代码示例
 
 ```js
@@ -34,6 +33,12 @@ LazyMan("Hank").eat("dinner").eat("supper")
 // 打印：Eat supper~
  
 LazyMan("Hank").sleepFirst(5).eat("supper")
+// 等待了 5 秒后
+// 打印：Wake up after 5
+// 打印：Hi This is Hank!
+// 打印：Eat supper
+
+LazyMan("Hank").eat("supper").sleepFirst(5)
 // 等待了 5 秒后
 // 打印：Wake up after 5
 // 打印：Hi This is Hank!
@@ -73,6 +78,5 @@ LazyMan("Hank").sleepFirst(5).eat("supper")
     3. 不需要考虑异常发生
     4. 不过度设计，代码简洁优雅是加分项
  -->
-
 
 
