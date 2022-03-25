@@ -28,5 +28,16 @@
 
 <img width="240" height="240" src = 'https://s3.bmp.ovh/imgs/2022/03/ce28b3b7a0c38a7b.png' />
      
-     
+## 🤔我想提问
 
+[如何提问](https://github.com/BetaSu/fe-hunter/wiki/How-to-ask%EF%BC%9F)
+
+## 👨赞助
+
+感谢以下赞助者对赏金的赞助（按时间排序）：
+
+名称 | 金额（元）
+---- | ---
+[cyyspring](https://github.com/cyyspring) | 15
+匿名 |  100
+匿名 |  800
