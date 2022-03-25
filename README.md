@@ -28,5 +28,7 @@
 
 <img width="240" height="240" src = 'https://s3.bmp.ovh/imgs/2022/03/ce28b3b7a0c38a7b.png' />
      
-     
+## 🤔我想提问
+
+[如何提问](https://github.com/BetaSu/fe-hunter/wiki/%E5%A6%82%E4%BD%95%E6%8F%90%E9%97%AE%EF%BC%9F)
 
