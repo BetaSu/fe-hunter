@@ -30,7 +30,7 @@
      
 ## 🤔我想提问
 
-[如何提问](https://github.com/BetaSu/fe-hunter/wiki/How-to-ask%EF%BC%9F)
+[如何提问](https://github.com/BetaSu/fe-hunter/wiki/How-to-ask)
 
 ## 👨赞助
 
