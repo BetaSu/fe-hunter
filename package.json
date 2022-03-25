@@ -1,0 +1,30 @@
+{
+  "name": "fe-hunter",
+  "version": "1.0.0",
+  "description": "悬赏前端高质量问题与答案",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "ask": "node ./cli/ask.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BetaSu/fe-hunter.git"
+  },
+  "keywords": [
+    "面试",
+    "提高",
+    "前端"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BetaSu/fe-hunter/issues"
+  },
+  "homepage": "https://github.com/BetaSu/fe-hunter#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
+}
