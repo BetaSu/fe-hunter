@@ -1,7 +1,9 @@
 <!-- {name: 'config', type: 'diy'} -->
 ### 要实现的功能
 
-使用 echarts 实现视频中的效果。中间的圆环可以旋转。旋转过程需要不影响 echarts 本身的动画。
+需要在 echarts 饼图中间添加一个自动旋转的圆环。圆环的样式如视频所示。旋转过程需要不影响 echarts 本身的动画。
+
+只需要实现圆环即可。
 
 https://user-images.githubusercontent.com/77133362/160225730-5963d845-ce9d-4705-9ac5-7ed2d82d46e8.mp4
 
@@ -13,6 +15,10 @@ https://user-images.githubusercontent.com/77133362/160225730-5963d845-ce9d-4705-
  -->
 
 ### 代码示例
+
+可以基于以下饼图示例开发
+
+https://echarts.apache.org/examples/zh/editor.html?c=pie-doughnut
 
 <!--
   说明：
@@ -33,7 +39,8 @@ https://user-images.githubusercontent.com/77133362/160225730-5963d845-ce9d-4705-
 
  ### 问题补充
 
-    1. 请写出实现思路、代码，并为代码的关键步骤增写注释
+1. 请写出实现思路、代码，并为代码的关键步骤增写注释
+
  <!--
   说明：
     补充影响答案质量的其他因素
