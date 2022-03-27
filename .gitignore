@@ -3,7 +3,6 @@
 yarn.lock
 package-lock.json
 pnpm-lock.yaml
-
 .DS_Store
 yarn-error.log
 .vscode
