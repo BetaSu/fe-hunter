@@ -6,6 +6,8 @@
 
 [点这里查看所有归档问题及答案](https://github.com/BetaSu/fe-hunter/issues?q=is%3Aissue+is%3Aclosed)
 
+[问题合订本](https://fe-cool.github.io/hunter/)
+
 ## 💰 我想答题赚钱
 
 [悬赏中的问题点击这里](https://github.com/BetaSu/fe-hunter/issues)
