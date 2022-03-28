@@ -24,7 +24,7 @@
  -->
 
 
-1.React 状态管理库有很多(Redux、Mobx、Recoil、Zustand、Jotai、Valtio...)，他们之间有哪些相同点和不同点？
+1.React 状态管理库有很多(Redux、MobX、Recoil、Zustand、Jotai、valtio...)，他们之间有哪些相同点和不同点？
 2.该如何选型？
 
 ### 最佳答案评选标准
