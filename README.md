@@ -22,7 +22,7 @@
 
 请加卡颂微信（备注：**赏金**）：
 
-微信号：yinyangpamengdong
+微信号：kasong999
 
 <img width="240" height="240" src = 'https://s3.bmp.ovh/imgs/2022/03/ce28b3b7a0c38a7b.png' />
      
