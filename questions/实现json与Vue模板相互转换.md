@@ -94,24 +94,26 @@ data === parseTemplate(templateString)
 
 实现 `createTemplate` 和 `parseTemplate` 函数
 
-不限定使用 `javascript` 或是 `typescript`
-
 ### 代码示例
 
 ```javascript
-
+// createTemplate函数： 输入的模板字符串需要和createTemplate处理后生成的一致
 console.log(templateString === createTemplate(data))
 
 // 预期为 true
 
+
+// parseTemplate函数： 由于对象的对比稍微复杂一些，我们暂且认为只要是值key value是正确的即可
 console.log(JSON.stringify(data) === JSON.stringify(parseTemplate(templateString)))
 
 // 预期为 true
-// 由于对象的对比稍微复杂一些，我们暂且认为只要是值key value是正确的即可
 
 ```
 
 ### 最佳答案评选标准
 
-- 可拓展性
-- 性能
+- 限定使用`typescript`
+- 需要提供 `codesandbox/stackblitz` 在线示例
+- 需要满足两者的相互转换
+- 拓展性 如果data的数据更复杂一些 需要可以正常转换
+- 安全性 需要处理符号转义
