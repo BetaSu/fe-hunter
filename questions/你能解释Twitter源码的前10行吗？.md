@@ -9,7 +9,7 @@
     实现水平垂直居中布局
  -->
 
-请逐行解释如下代码
+这是`Twitter`的前十行代码，请逐行解释他们的作用：
 
 ```html
 <!DOCTYPE html>
@@ -23,8 +23,6 @@
 <meta name="apple-mobile-web-app-title" content="Twitter" />
 <meta name="apple-mobile-web-app-status-bar-style" content="white" />
 ```
-
-
 ### 最佳答案评选标准
 
  <!--
@@ -39,4 +37,4 @@
     3. 对详细的描述、代码示例是加分项
  -->
 
-1.逐行解释清楚并附带使用场景是加分项
+1. 逐行解释清楚并附带使用场景是加分项
