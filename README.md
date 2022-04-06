@@ -34,6 +34,7 @@
 
 名称 | 金额（元）
 ---- | ---
+[byoungd](github.com/byoungd) | 300
 [cyyspring](https://github.com/cyyspring) | 15
 匿名 |  100
 匿名 |  800
