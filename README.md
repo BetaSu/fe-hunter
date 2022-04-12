@@ -1,14 +1,16 @@
 # 🥷 前端赏金猎人
 
-用单纯的金钱关系维系的前端学习社区，悬赏答题 + 答题赚钱
+每天督促自己答一道题，3个月后，你就是面试小能手。
+
+收获👍最多的答案还能领赏金哦！
 
 ## 👩‍🎓 我想学习
 
-[点这里查看所有归档问题及答案](https://github.com/BetaSu/fe-hunter/issues?q=is%3Aissue+is%3Aclosed)
+[所有有最佳答案的问题](https://github.com/BetaSu/fe-hunter/issues?q=is%3Aissue+is%3Aclosed)
 
-[问题合订本](https://fe-cool.github.io/hunter/)
+[合订本](https://fe-cool.github.io/hunter/)
 
-## 💰 我想答题赚钱
+## 💰 我要答题
 
 [悬赏中的问题点击这里](https://github.com/BetaSu/fe-hunter/issues)
 
@@ -16,8 +18,8 @@
 
 如果你想：
 
-- 领赏金
-- 进赏金猎人群（一个干净、纯粹的前端技术群）
+- 答题赚钱，领赏金
+- 进赏金猎人群（一个干净、纯粹，以答题为主的前端技术群）
 - 每日收获几个高质量前端问题的答案
 
 请加卡颂微信（备注**赏金**）：kasong999
