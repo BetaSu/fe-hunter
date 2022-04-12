@@ -22,7 +22,7 @@
 
 请加卡颂微信（备注**赏金**）：kasong999
 
-<img width="240" height="240" src = 'https://s3.bmp.ovh/imgs/2022/03/ce28b3b7a0c38a7b.png' />
+<img width="240" height="240" alt="WechatIMG699" src="https://user-images.githubusercontent.com/15828041/162861814-50153bc6-91a6-4364-b124-7d52477c0146.png">
      
 ## 🤔我想提问
 
