@@ -22,7 +22,7 @@
 - 进赏金猎人群（一个干净、纯粹，以答题为主的前端技术群）
 - 每日收获几个高质量前端问题的答案
 
-请加卡颂微信（备注**猎人**）：kasong999
+请加卡颂微信（备注**猎人**）：kasong555
 
 <img width="240" height="240" alt="WechatIMG699" src="https://user-images.githubusercontent.com/15828041/162861814-50153bc6-91a6-4364-b124-7d52477c0146.png">
      
